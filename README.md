@@ -1,64 +1,78 @@
-🪨📄✂️ Rock-Paper-Scissor Game
+# Rock Paper Scissor – Web Game
 
-A simple and interactive Rock-Paper-Scissor game built using HTML, CSS, and JavaScript.
-This project lets users play against the computer with live result updates and score tracking.
+A simple, responsive, and interactive **Rock Paper Scissor** game built using HTML, CSS, and JavaScript. The user plays against the computer, and the game displays the results instantly with score tracking.
 
-NOTE: This project is fully made by Gemini. I deployed it and uploaded it to GitHub.
+> **Note:** This project was fully generated using **Gemini**, and deployed & managed by me.
 
-🚀 Live Demo
+---
 
-Play here: https://rock-paper-scissor-coral-nine.vercel.app/
+## Live Demo
 
-🛠️ Features
+**[https://rock-paper-scissor-coral-nine.vercel.app/](https://rock-paper-scissor-coral-nine.vercel.app/)**
 
-🎮 Choose Rock, Paper, or Scissors
+---
 
-🤖 Computer generates a random choice
+## Features
 
-🏆 Shows the winner instantly
+* User vs Computer gameplay
+* Randomized computer selection
+* Real-time result display
+* Score tracking for both sides
+* Clean and responsive UI
+* Easy to run and deploy
 
-📊 Scoreboard for Player vs Computer
+---
 
-💡 Clean and simple UI
+## Tech Stack
 
-⚡ Fast and responsive gameplay
+* **HTML5** – Structure
+* **CSS3** – Styling
+* **JavaScript (ES6)** – Game logic
+* **Vercel** – Deployment
 
-🧩 Tech Stack
+---
 
-HTML5 – structure
+## Installation & Usage
 
-CSS3 – styling
+To run the project locally:
 
-JavaScript – game logic
-
-Vercel – hosting
-
-📦 Project Structure
-/Rock-Paper-Scissor
-│
-├── index.html
-├── style.css
-└── script.js
-
-▶️ How to Run Locally
-
-Clone the repository:
-
+```bash
 git clone https://github.com/MubashirKhanYousufZai/Rock-Paper-Scissor.git
+```
+
+Open the folder and launch:
+
+```
+index.html
+```
+
+No additional setup or dependencies required.
+
+---
+
+## Project Structure
+
+```
+Rock-Paper-Scissor/
+│
+├── index.html      # Main UI
+├── style.css       # Stylesheet
+└── script.js       # Game logic
+```
+
+---
+
+## License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+## Author
+
+**Mubashir Khan**
+Front-end & AI-Powered Developer
+Portfolio: [https://mubashir-khans-portfolio.vercel.app/](https://mubashir-khans-portfolio.vercel.app/)
+GitHub: [https://github.com/MubashirKhanYousufZai](https://github.com/MubashirKhanYousufZai)
 
 
-Open the folder
-
-Run the project by opening index.html in your browser
-
-No extra setup needed.
-
-📸 Screenshots (Optional)
-
-Add screenshots of your UI later to make the README more attractive.
-
-🧑‍💻 Author
-
-Mubashir Khan
-Front-End & AI-Powered Developer
-Portfolio: https://mubashir-khans-portfolio.vercel.app/
